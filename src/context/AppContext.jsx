@@ -17,7 +17,8 @@ import axios from "axios";
 // currency symbol
   const currencySymbol = '৳';
   //get backend url
-  const backendUrl = import.meta.env.VITE_BACKEND_URL;
+   const backendUrl = import.meta.env.VITE_BACKEND_URL;
+   
    //get all doctors
    const getDoctorsData = async () => {
        try {
