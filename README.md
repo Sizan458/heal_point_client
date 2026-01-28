@@ -39,6 +39,4 @@ Prescripto is a modern web application that helps patients find trusted doctors,
 
 ## 📸 Screenshots
 
-[image](https://i.ibb.co.com/B29YhHWQ/screencapture-heal-point-client-vercel-app-2026-01-28-06-11-43.png)
-```md
-![Home Page](./screenshots/home.png)
+![Home Page](https://i.ibb.co/B29YhHWQ/screencapture-heal-point-client-vercel-app-2026-01-28-06-11-43.png)
