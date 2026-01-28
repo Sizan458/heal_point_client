@@ -1,8 +1,44 @@
-# React + Vite
+# Prescripto 🩺  
+Doctor appointment booking platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Prescripto is a modern web application that helps patients find trusted doctors, filter by specialty, and book appointments online with ease. The focus is on simplicity, speed, and a smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- Browse doctors by specialty  
+- View doctor availability status  
+- Book appointments online  
+- User account creation and authentication  
+- Responsive and clean UI  
+- Scalable architecture for future features  
+
+---
+
+## 🖥️ Tech Stack
+
+### Frontend
+- Vite
+- React
+- Tailwind CSS
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+### Tools & Services
+- Context API for state management
+- JWT-based authentication
+- Vercel (frontend deployment)
+
+---
+
+## 📸 Screenshots
+
+[image](https://i.ibb.co.com/B29YhHWQ/screencapture-heal-point-client-vercel-app-2026-01-28-06-11-43.png)
+```md
+![Home Page](./screenshots/home.png)
